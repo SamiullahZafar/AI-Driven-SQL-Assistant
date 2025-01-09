@@ -26,7 +26,7 @@ Prerequisites
 •	A valid Cohere API key.
 Installation
 1.	Clone the repository: 
-2.	git clone https://github.com/your-username/AI-Driven-SQL-Assistant.git
+2.	git clone https://github.com/SamiullahZafar/AI-Driven-SQL-Assistant.git
 3.	Install required dependencies: 
 4.	pip install cohere cx_Oracle
 Configuration
